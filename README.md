@@ -9,6 +9,7 @@ Know of any other spaces? Let us know so we can add them to the list!
 * [0AD](https://play0ad.com/)
 * [Builda City](https://builda.city)
 * [Freeciv](https://www.freeciv.org/)
+* [Mindustry](https://mindustrygame.github.io/)
 * [Minetest](https://www.minetest.net/)
 * [Open Brush](https://openbrush.app/)
 * [OpenRCT2](https://openrct2.org/)
