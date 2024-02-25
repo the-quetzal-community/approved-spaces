@@ -14,6 +14,7 @@ Know of any other spaces? Let us know so we can add them to the list!
 * [Open Brush](https://openbrush.app/)
 * [OpenRCT2](https://openrct2.org/)
 * [OpenTTD](https://www.openttd.org/)
+* [Veloren](https://veloren.net/)
 
 #### Single-user Spaces
 
