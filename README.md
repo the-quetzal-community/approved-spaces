@@ -4,7 +4,7 @@ where users can share their creations and retain free usage rights over their wo
 
 Know of any other spaces? Let us know so we can add them to the list!
 
-#### Shared Spaces
+#### Multi-user Spaces
 
 * [0AD](https://play0ad.com/)
 * [Builda City](https://builda.city)
@@ -15,7 +15,7 @@ Know of any other spaces? Let us know so we can add them to the list!
 * [OpenRCT2](https://openrct2.org/)
 * [OpenTTD](https://www.openttd.org/)
 
-#### Personal Spaces
+#### Single-user Spaces
 
 * [Blender](https://blender.org)
 * [Cytopia](https://github.com/CytopiaTeam/Cytopia)
