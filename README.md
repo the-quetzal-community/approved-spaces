@@ -1,6 +1,6 @@
 We've reviewed each of these creative spaces and deemed each one to be available 
 under an [Approved License](https://the.quetzal.community/approved-licenses) 
-where users can export their creations and retain free usage rights over their work.
+where users can share their creations and retain free usage rights over their work.
 
 Know of any other spaces? Let us know so we can add them to the list!
 
