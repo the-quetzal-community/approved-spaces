@@ -1,6 +1,6 @@
 We've reviewed each of these creative spaces and deemed each one to be available 
-under an Approved Community License where users can export their creations and 
-retain usage rights on the distribution of their work.
+under an [Approved License](https://the.quetzal.community/approved-licenses) 
+where users can export their creations and retain free usage rights over their work.
 
 #### Shared Spaces
 
