@@ -18,6 +18,7 @@ Know of any other spaces? Let us know so we can add them to the list!
 
 * [Blender](https://blender.org)
 * [Cytopia](https://github.com/CytopiaTeam/Cytopia)
+* [Egregoria](https://github.com/Uriopass/Egregoria)
 * [Gimp](https://www.gimp.org/)
 * [Godot](https://godotengine.org/)
 * [Inkscape](https://inkscape.org/)
