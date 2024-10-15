@@ -10,7 +10,7 @@ Know of any other spaces? Let us know so we can add them to the list!
 * [Builda City](https://builda.city)
 * [Freeciv](https://www.freeciv.org/)
 * [Mindustry](https://mindustrygame.github.io/)
-* [Minetest](https://www.minetest.net/)
+* [Luanti](https://www.luanti.org/)
 * [Open Brush](https://openbrush.app/)
 * [OpenRCT2](https://openrct2.org/)
 * [OpenTTD](https://www.openttd.org/)
